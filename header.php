@@ -54,8 +54,6 @@
 		nav ul {
 			list-style: none;
 			padding: 0;
-			display: flex;
-			justify-content: center;
 			background-color: rgba(139, 0, 0, 0.9);
 		}
 		nav ul li {
